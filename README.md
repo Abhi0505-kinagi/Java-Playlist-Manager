@@ -1,4 +1,4 @@
-# 🎵 Java Playlist Manager
+# 🎵 Java Playlist Manager(Using Linked List)
 
 A simple command-line music playlist manager in **Java** that:
 - Lets you add songs (WAV file paths).
